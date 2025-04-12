@@ -1,2 +1,2 @@
-import { Product } from '../../../prisma/generated/prisma';
+import { Product } from '@prisma/client';
 export type ProductEntity = Product;
